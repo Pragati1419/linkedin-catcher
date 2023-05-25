@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/linkedin-scrapper.svg" alt="npm version">
-  <img src="https://img.shields.io/npm/dt/linkedin-scrapper.svg" alt="npm downloads">
+ 
   <img src="https://img.shields.io/npm/l/linkedin-scrapper.svg" alt="license">
   <img src ="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm package">
 
