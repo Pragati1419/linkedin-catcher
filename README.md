@@ -39,7 +39,7 @@ Here's an example of how to use LinkedInsight to scrape a LinkedIn profile:
 const scrapper = require("linkedin-scrapper");
 
 scrapper({
-    url: "profile-id/", // e.g., natsu-gupta/
+    url: "pragati1157/", // e.g., Pragati Kumari/
 }).then(res => console.warn(res));
 
 
