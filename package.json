@@ -1,0 +1,26 @@
+{
+  "name": "linkedin-scrap",
+  "version": "1.0.0",
+  "description": "A CLI tool to scraping the linkedIn Profile details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragati1419/linkedInsight.git"
+  },
+  "homepage": "https://github.com/Pragati1419/linkedInsight#readme",
+  "author": "Pragati Kumari",
+  "license": "MIT License",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^20.3.0"
+  },
+  "keywords": [
+    "linkedin",
+    "scrap",
+    "scraping",
+    "webscrapper"
+    ]
+}
