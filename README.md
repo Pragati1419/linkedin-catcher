@@ -28,7 +28,7 @@ LinkedInsight is an npm package that allows you to scrape LinkedIn profiles and 
 To install LinkedInsight, use npm:
 
 ```bash
-npm install linkedInsight
+npm install linkedin -sight
  ````
 
 ## Usage
