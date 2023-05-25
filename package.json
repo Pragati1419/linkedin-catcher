@@ -1,5 +1,5 @@
 {
-  "name": "linkedin-scrap",
+  "name": "linkedin-sight",
   "version": "1.0.0",
   "description": "A CLI tool to scraping the linkedIn Profile details.",
   "main": "index.js",
